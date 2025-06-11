@@ -9,11 +9,11 @@ const urlsToCache = [
     "/mitra.html",
     "/css/style.css",
     "/css/responsive.css",
-    "/css/bootstrap.min.css", 
+    "/css/css/bootstrap.min.css", 
     "/css/js/bootstrap.bundle.min.js", 
     "/css/fontawesome-free-5.15.4-web/css/fontawesome.min.css",
     "/css/fontawesome-free-5.15.4-web/css/all.min.css",
-    "/css/bootstrap-grid.min.css", 
+    "/css/css/bootstrap-grid.min.css", 
     "/app.js", // file JS utama yang mendaftarkan service worker
 
     // Daftar gambar yang digunakan dalam aplikasi
