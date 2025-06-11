@@ -4,9 +4,9 @@ const CACHE_NAME = "wisata-app-cache-v1";
 // Daftar file yang akan disimpan di cache
 const urlsToCache = [
     "/", // halaman utama
-    "/index.html",
-    "/wisata.html",
-    "/mitra.html",
+    "index.html",
+    "wisata.html",
+    "mitra.html",
     "sw.js", // file service worker itu sendiri
     "/css/style.css",
     "/css/responsive.css",
