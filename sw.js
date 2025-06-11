@@ -37,16 +37,16 @@ const urlsToCache = [
     "/images/img-5.png",
     "/images/jogja_sunrise.jpg",
     "/images/kano.jpg",
-    "/images/kebondalem.jpg",
+    "/images/kebonndalem.jpg", // perbaiki dari kebondalem.jpg
     "/images/logo.png",
     "/images/malioboro.jpg",
     "/images/nol_kilometer.png",
-    "/images/padang.jpg",
+    "/images/padang.jpeg", // perbaiki dari padang.jpg
     "/images/pindul.jpg",
     "/images/quick-icon.png",
     "/images/sateklatak.jpg",
-    "/images/silil.jpg",
-    "/images/sundek.jpg",
+    "/images/slili.jpg", // perbaiki dari silil.jpg
+    "/images/sundak.jpg", // perbaiki dari sundek.jpg
     "/images/tugu_jogja.jpg",
     "/images/Tugu.jpg"
 ];
