@@ -7,7 +7,6 @@ const urlsToCache = [
     "index.html",
     "wisata.html",
     "mitra.html",
-    "sw.js", // file service worker itu sendiri
     "/css/style.css",
     "/css/responsive.css",
     "/css/css/bootstrap.min.css", 
