@@ -7,12 +7,14 @@ const urlsToCache = [
     "/index.html",
     "/wisata.html",
     "/mitra.html",
+    "sw.js", // file service worker itu sendiri
     "/css/style.css",
     "/css/responsive.css",
     "/css/css/bootstrap.min.css", 
-    "/css/js/bootstrap.bundle.min.js", 
-    "/css/fontawesome-free-5.15.4-web/css/fontawesome.min.css",
-    "/css/fontawesome-free-5.15.4-web/css/all.min.css",
+    "/css/js/s/bootstrap.bundle.min.js", 
+"css/fontawesome/css/fontawesome.min.css",
+"css/fontawesome/css/all.min.css",
+
     "/css/css/bootstrap-grid.min.css", 
     "/app.js", // file JS utama yang mendaftarkan service worker
 
@@ -36,16 +38,16 @@ const urlsToCache = [
     "/images/img-5.png",
     "/images/jogja_sunrise.jpg",
     "/images/kano.jpg",
-    "/images/kebonndalem.jpg",
+    "/images/kebondalem.jpg",
     "/images/logo.png",
     "/images/malioboro.jpg",
     "/images/nol_kilometer.png",
-    "/images/padang.jpeg",
+    "/images/padang.jpg",
     "/images/pindul.jpg",
     "/images/quick-icon.png",
     "/images/sateklatak.jpg",
-    "/images/slili.jpg",
-    "/images/sundak.jpg",
+    "/images/silil.jpg",
+    "/images/sundek.jpg",
     "/images/tugu_jogja.jpg",
     "/images/Tugu.jpg"
 ];
