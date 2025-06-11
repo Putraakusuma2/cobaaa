@@ -4,17 +4,16 @@ const CACHE_NAME = "wisata-app-cache-v1";
 // Daftar file yang akan disimpan di cache
 const urlsToCache = [
     "/", // halaman utama
-    "index.html",
-    "wisata.html",
-    "mitra.html",
+    "/index.html",
+    "/wisata.html",
+    "/mitra.html",
     "/css/style.css",
     "/css/responsive.css",
-    "/css/css/bootstrap.min.css", 
-    "/css/js/s/bootstrap.bundle.min.js", 
-"css/fontawesome/css/fontawesome.min.css",
-"css/fontawesome/css/all.min.css",
-
-    "/css/css/bootstrap-grid.min.css", 
+    "/css/bootstrap.min.css", 
+    "/css/js/bootstrap.bundle.min.js", 
+    "/css/fontawesome-free-5.15.4-web/css/fontawesome.min.css",
+    "/css/fontawesome-free-5.15.4-web/css/all.min.css",
+    "/css/bootstrap-grid.min.css", 
     "/app.js", // file JS utama yang mendaftarkan service worker
 
     // Daftar gambar yang digunakan dalam aplikasi
@@ -37,16 +36,16 @@ const urlsToCache = [
     "/images/img-5.png",
     "/images/jogja_sunrise.jpg",
     "/images/kano.jpg",
-    "/images/kebonndalem.jpg", // perbaiki dari kebondalem.jpg
+    "/images/kebonndalem.jpg",
     "/images/logo.png",
     "/images/malioboro.jpg",
     "/images/nol_kilometer.png",
-    "/images/padang.jpeg", // perbaiki dari padang.jpg
+    "/images/padang.jpeg",
     "/images/pindul.jpg",
     "/images/quick-icon.png",
     "/images/sateklatak.jpg",
-    "/images/slili.jpg", // perbaiki dari silil.jpg
-    "/images/sundak.jpg", // perbaiki dari sundek.jpg
+    "/images/slili.jpg",
+    "/images/sundak.jpg",
     "/images/tugu_jogja.jpg",
     "/images/Tugu.jpg"
 ];
